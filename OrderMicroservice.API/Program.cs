@@ -1,6 +1,6 @@
-using eCommerce.OrderMicroservice.API.Middleware;
-using eCommerce.OrderMicroservice.BusinessLogicLayer;
-using eCommerce.OrderMicroservice.DataAccessLayer;
+using eCommerce.OrdersMicroservice.API.Middleware;
+using eCommerce.OrdersMicroservice.BusinessLogicLayer;
+using eCommerce.OrdersMicroservice.DataAccessLayer;
 using FluentValidation.AspNetCore;
 using FluentValidation.Validators;
 

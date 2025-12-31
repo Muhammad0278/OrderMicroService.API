@@ -6,7 +6,7 @@ using MongoDB.Driver;
 using MongoDB.Driver.Core.Configuration;
 
 
-namespace eCommerce.OrderMicroservice.DataAccessLayer;
+namespace eCommerce.OrdersMicroservice.DataAccessLayer;
 
 public static class DependancyInjection
 {

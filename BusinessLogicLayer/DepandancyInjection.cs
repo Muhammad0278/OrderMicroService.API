@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 
 
-namespace eCommerce.OrderMicroservice.BusinessLogicLayer;
+namespace eCommerce.OrdersMicroservice.BusinessLogicLayer;
 
 public static class DependancyInjection
 {

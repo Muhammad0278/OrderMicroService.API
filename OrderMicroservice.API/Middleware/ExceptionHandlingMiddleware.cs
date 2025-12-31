@@ -1,4 +1,4 @@
-﻿namespace eCommerce.OrderMicroservice.API.Middleware;
+﻿namespace eCommerce.OrdersMicroservice.API.Middleware;
 
 // need to install the Microsoft.AspNetCore.Http.Abstractions package 
 public class ExceptionHandlingMidleware
